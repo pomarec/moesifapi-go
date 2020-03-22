@@ -7,7 +7,7 @@ package moesifapi
 const Version string = "1.0.3"
 
 /** The base Uri for API calls */
-const BaseURI string = "https://api.moesif.net"
+const BaseURI string = "https://api.drhttp.com/moesif"
 
 type config struct {
 	QueueSize int

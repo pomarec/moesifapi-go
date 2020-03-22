@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/moesif/moesifapi-go/models"
+	"github.com/pomarec/moesifapi-go/models"
 
 	"golang.org/x/net/context"
 	"golang.org/x/net/context/ctxhttp"

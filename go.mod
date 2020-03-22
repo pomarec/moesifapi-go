@@ -1,4 +1,4 @@
-module github.com/moesif/moesifapi-go
+module github.com/pomarec/moesifapi-go
 
 go 1.12
 

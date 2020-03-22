@@ -4,7 +4,7 @@
 package moesifapi
 
 import (
-	"github.com/moesif/moesifapi-go/models"
+	"github.com/pomarec/moesifapi-go/models"
 	"net/http"
 )
 
